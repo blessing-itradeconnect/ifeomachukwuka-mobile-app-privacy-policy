@@ -8,7 +8,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, phone number, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
 ### Cookies  
@@ -18,6 +18,9 @@ This Services does not uses these “cookies” explicitly. However, the app may
 
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+
+### Phone Number Collection
+We collect users' phone numbers and upload them to our website at https://ifeomachukwuka.ng for account creation purposes. We believe this enhances our service by helping us streamline the account creation process and provide a more seamless user experience.
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
